@@ -103,7 +103,7 @@ exit
 Title It's a Prank :D
 cls
 color b
-echo You was pranked by Erkam2002 github.com/erkam2002 Twitter: @ErkamKahriman
+echo You was pranked by erkam2002 github.com/erkam2002 Twitter: @ErkamKahriman
 pause > NUL
 :Falsch
 Title Acces Denied!
