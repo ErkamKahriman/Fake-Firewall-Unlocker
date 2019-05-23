@@ -7,7 +7,7 @@ set /p pwd=Enter Password:
 if %pwd% == 123123 goto Richtig
 if not %pwd% == 123123 goto Falsch
 :Richtig
-Title Firewall Unlocker by erkam2002
+Title Firewall Unlocker by ErkamKahriman
 cls
 color a
 echo You are logged in.
